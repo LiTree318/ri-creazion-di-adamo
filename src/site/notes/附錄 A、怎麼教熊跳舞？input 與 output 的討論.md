@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","tags":["writing-studio"],"noteIcon":"3","created":"2026-09-29T03:12:08.890+08:00","updated":"2026-09-29T03:14:13.487+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["writing-studio"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"這個不需要優先補，想到就補（但這篇文章應該會寫很快，可能光這個附錄就5000字）"}}
+{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-09-29T03:12:08.890+08:00","updated":"2026-09-29T03:19:20.508+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"這個不需要優先補，想到就補（但這篇文章應該會寫很快，可能光這個附錄就5000字）"}}
 ---
 
 
