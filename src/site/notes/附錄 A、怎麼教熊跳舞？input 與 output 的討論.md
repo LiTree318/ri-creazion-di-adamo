@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-09-29T03:12:08.890+08:00","updated":"2026-09-29T09:26:37.414+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"這個不需要優先補，想到就補（但這篇文章應該會寫很快，可能光這個附錄就5000字）"}}
+{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-09-29T03:12:08.890+08:00","updated":"2026-09-29T09:54:50.164+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"寫了快七千字，還有一個小節／小結沒有完成（可以接到附錄B）"}}
 ---
 
 
@@ -143,7 +143,7 @@
 
 
 
-## C. 「心流」與分享：使用者社群間的溝通與交流
+## C. 「怎麼教熊跳舞？」使用者的社群互動與交流
 
 然而在上述的討論中，我們將 $S(E)$ 與 $S(B)$ 的乘積（ $S(E) × S(B)$）視為心流的觀點會忽略不同使用者進入心流（與否）後，與其他使用者的互動會如何改變。
 
@@ -172,7 +172,4 @@ $Sharing Willness = \frac{S(E)}{S(B)}$，
 享受者對於新工具的鑽研較深，同時也有著最高的分享意願（$\frac{S(E)}{S(B)} \gg 1$）。但他們作為分享者卻缺乏對於 output 資訊情境的掌握與理解（$S(B)$ 最低），因此為了能提高與初學者、觀覽者的互動，在安排享受者擔任分享者或講師時，==需要補充他們對於輸出情境的背景知識==，讓享受者能從不同輸出案例中思考新工具對應的可能性。
 
 最後，挖掘者是四類中分享能力最高的（$S(E)×S(B)$的積最高），然而他們與觀覽者一樣分享意願較低（$\frac{S(E)}{S(B)} \simeq 1$）；這可能是因為==對於挖掘者來說缺乏分享誘因==，要挖掘者基於個人使用經歷進行分享是一個巨大的工程（尤其他具備充足的 $S(B)$）。因此在邀請挖掘者擔任分享者時，更需要從挖掘者在==學習工具以外的訴求／需求==著手，才能更好地激勵挖掘者投入社群互動中。
-
-
-
 
