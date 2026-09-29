@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-09-29T03:12:08.890+08:00","updated":"2026-09-29T12:57:14.300+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"寫了快七千字，還有一個小節／小結沒有完成（可以接到附錄B）"}}
+{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-09-29T03:12:08.890+08:00","updated":"2026-09-29T13:03:15.155+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"寫了快七千字，還有一個小節／小結沒有完成（可以接到附錄B）"}}
 ---
 
-
+![cover_附錄 A.jpg](/img/user/cover_%E9%99%84%E9%8C%84%20A.jpg)
 # <span style="font-family: 'Times New Roman', serif; font-size: 120%;">附錄 A、怎麼教熊跳舞？input 與 output 的討論</span>
 
 
