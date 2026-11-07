@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","metatags":{"image":"https://github.com/LiTree318/ri-creazion-di-adamo/blob/bd31bc37c4fa0576970dca3f6eb755f6ffc6fcc1/src/site/img/user/cover_%E9%99%84%E9%8C%84%20A.jpg"},"tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-10-24T07:19:30.000+08:00","updated":"2026-09-29T15:59:07.000+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"寫了快七千字，還有一個小節／小結沒有完成（可以接到附錄B）"}}
+{"dg-publish":true,"dg-permalink":"appendix-a-2026-09-29","permalink":"/appendix-a-2026-09-29/","metatags":{"image":"https://github.com/LiTree318/ri-creazion-di-adamo/blob/bd31bc37c4fa0576970dca3f6eb755f6ffc6fcc1/src/site/img/user/cover_%E9%99%84%E9%8C%84%20A.jpg"},"tags":["#Ri-creazione-di-Adamo"],"noteIcon":"3","created":"2026-10-24T07:19:30.000+08:00","updated":"2026-11-07T09:46:42.658+08:00","dg-note-properties":{"binder-type":"appendix","binder-order":110,"binder-status":"complete","word-count":6808,"created":"2026-09-25","modified":"2026-09-29","tags":["#Ri-creazione-di-Adamo"],"status":["✅ Done/Sent"],"aliases":["附錄 A、怎麼教熊跳舞？input 與 output 的討論"],"kanban_order":"V0","Abs":"寫了快七千字，還有一個小節／小結沒有完成（可以接到附錄B）"}}
 ---
 
 
@@ -115,7 +115,7 @@
 
 
 
-## B. 接收與輸出：影響動機／忍受曲線曲率的因素
+## C. 接收與輸出：影響動機／忍受曲線曲率的因素
 
 在前文中提及曲線的曲率是由資訊情境所影響，但並未更進一步討論資訊情境是如何影響曲率。在這一節我們將從 input 和 output 的資訊情境，分別探討對 $C_m$、$C_p$ 的影響，以及我們所能從中詮釋的意涵。
 
@@ -155,7 +155,7 @@
 
 
 
-## C. 「怎麼教熊跳舞？」使用者的社群互動與交流
+## D. 「怎麼教熊跳舞？」使用者的社群互動與交流
 
 ### i. 使用者的社群行為：分享意願
 
@@ -197,4 +197,4 @@ $Sharing Willness = \frac{S(E)}{S(B)}$，
 >  <div style="text-align: center">圖 4</div>
 
 
-## D. 小結：成為教學者（Educator）
+## E. 小結：成為教學者（Educator）
